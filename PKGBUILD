@@ -1,6 +1,6 @@
 pkgname=open365-client
 pkgver=1.0.0
-pkgrel=1
+pkgrel=2
 pkgdesc="An open source Office365 alternative that allows edit or create documents online"
 category=Office
 screenshot=http://i.imgur.com/16YkEa1.png?1
