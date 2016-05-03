@@ -8,7 +8,7 @@ arch=('x86_64')
 url="https://open365.io"
 license=('unknow')
 source=("https://s3-eu-west-1.amazonaws.com/open365.io/downloads/open365-client-1.0.0.112428-17.deb")
-depends=('python2-simplejson' 'libevent' 'qt' 'glib2' )
+depends=('python2-simplejson' 'libevent' 'qt' 'glib2' 'seafile')
 md5sums=('120c3764f514c983657004f8f0153cf5')
 package() {
  tar -xf data.tar.gz -C $pkgdir
